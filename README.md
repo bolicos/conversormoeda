@@ -1,0 +1,1 @@
+# App Android Native Conversor Moeda
